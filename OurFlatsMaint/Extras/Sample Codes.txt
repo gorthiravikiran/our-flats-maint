@@ -1,0 +1,72 @@
+﻿-------------Print a Form-------------
+
+First, we created a simple form with a few controls, that do nothing, so that the form would have something on it.  We added a Print Form command button and called it btnPrintForm.
+
+Place the following code in the declaractions section of your form.  This code sets up a PrintDocument component and declares the prototype for the BitBlt API call.  The BitBlt function performs a bit-block transfer of the color data corresponding to a rectangle of pixels from the specified source device context into a destination device context. This API is used to capture the image of the form.
+
+   ' create a printing component
+   Private WithEvents pd As Printing.PrintDocument
+   ' storage for form image
+   Dim formImage As Bitmap
+   ' create API prototype
+   Private Declare Function BitBlt Lib "gdi32.dll" Alias _
+      "BitBlt" (ByVal hdcDest As IntPtr, _
+      ByVal nXDest As Integer, ByVal nYDest As _
+      Integer, ByVal nWidth As Integer, _
+      ByVal nHeight As Integer, ByVal _
+      hdcSrc As IntPtr, ByVal nXSrc As Integer, _
+      ByVal nYSrc As Integer, _
+      ByVal dwRop As System.Int32) As Long
+
+Next, place the following event handlers in the code window of the form.  The print command button is expected to have a Name of btnPrintForm.
+
+   ' Callback from PrintDocument component to 
+   ' do the actual printing
+   Private Sub pd_PrintPage(ByVal sender As Object, _
+      ByVal e As System.Drawing.Printing.PrintPageEventArgs) _
+      Handles pd.PrintPage
+      e.Graphics.DrawImage(formImage, 100, 100)
+   End Sub
+
+   Private Sub Form1_Load(ByVal sender As Object, _
+     ByVal e As System.EventArgs) Handles MyBase.Load
+      ' create an instance of the PrintDocument component
+      pd = New Printing.PrintDocument
+      Me.StartPosition = FormStartPosition.CenterScreen
+   End Sub
+
+   Private Sub btnPrintForm_Click(ByVal sender As _
+      System.Object, ByVal e As System.EventArgs) _
+      Handles btnPrintForm.Click
+      ' initiate the printdocument component
+      GetFormImage()
+      pd.Print()
+   End Sub
+
+In the Form_Load event, we have created an instance of the PrintDocument object.  In the btnPrintForm_Click event, we call a method, shown below, to capture the image of the form and create a Bitmap of it.  Then we call the Print method of the PrintDocument object to initiate the printing of the form.  That method will call the pd_PrintPage event handler to request the data to be printed.  In this case the data to be printed is a Bitmap, created by the GetFormImage method.
+
+The following method, GetFormImage, captures the screen image of the form.
+
+   Private Sub GetFormImage()
+      Dim g As Graphics = Me.CreateGraphics()
+      Dim s As Size = Me.Size
+      formImage = New Bitmap(s.Width, s.Height, g)
+      Dim mg As Graphics = Graphics.FromImage(formImage)
+      Dim dc1 As IntPtr = g.GetHdc
+      Dim dc2 As IntPtr = mg.GetHdc
+      ' added code to compute and capture the form 
+      ' title bar and borders 
+      Dim widthDiff As Integer = _
+         (Me.Width - Me.ClientRectangle.Width)
+      Dim heightDiff As Integer = _
+         (Me.Height - Me.ClientRectangle.Height)
+      Dim borderSize As Integer = widthDiff \ 2
+      Dim heightTitleBar As Integer = heightDiff - borderSize
+      BitBlt(dc2, 0, 0, _
+         Me.ClientRectangle.Width + widthDiff, _
+         Me.ClientRectangle.Height + heightDiff, dc1, _
+         0 - borderSize, 0 - heightTitleBar, 13369376)
+
+      g.ReleaseHdc(dc1)
+      mg.ReleaseHdc(dc2)
+   End Sub

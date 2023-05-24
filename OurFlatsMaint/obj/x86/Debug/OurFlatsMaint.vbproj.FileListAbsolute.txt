@@ -1,0 +1,139 @@
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.Resources.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.pdb
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.xml
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.exe
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.xml
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.pdb
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogMultiInst.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogPwdChngd.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSorry.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.calculator.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.postgreText.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatLogin.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatSplash.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe.config
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\ResGen.read.1.tlog
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\ResGen.write.1.tlog
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatAboutBox.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatHome.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatChgPwd.resources
+D:\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.MaintCharges.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\Flats.accdb
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe.config
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe.manifest
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.application
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.pdb
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.xml
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogDone.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSelectFlatNo.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSelectPeriod.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.calculator.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.postgreText.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogMultiInst.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogPwdChngd.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSorry.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.otherExpense.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.inMoney2.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.incSumGraph.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.incSummary.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.oldDuesDetails.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.outMoney.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.inMoney.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.cashReceipt.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.setRate.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatHome.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatLogin.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatAboutBox.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatChgPwd.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.Resources.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatSplash.resources
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.exe.manifest
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.application
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.exe
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.xml
+F:\Developer\Project Workspace\VB Projects\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.pdb
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe.config
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.exe
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.xml
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.pdb
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\bin\Debug\Flats.accdb
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe.manifest
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.application
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.pdb
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.xml
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.vbprojResolveAssemblyReference.cache
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogDone.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSelectFlatNo.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSelectPeriod.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.calculator.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.postgreText.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogMultiInst.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogPwdChngd.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSorry.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.otherExpense.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.inMoney2.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.incSumGraph.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.incSummary.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.oldDuesDetails.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.outMoney.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.inMoney.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.cashReceipt.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.setRate.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.setRateAmd.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatHome.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatLogin.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatAboutBox.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatChgPwd.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.Resources.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatSplash.resources
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.vbproj.GenerateResource.Cache
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.exe.manifest
+F:\Project Workspace\VB Projects\From Office\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.application
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\bin\Debug\Flats.accdb
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe.config
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe.manifest
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.application
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.exe
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.pdb
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\bin\Debug\OurFlatsMaint.xml
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.vbproj.AssemblyReference.cache
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogDone.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSelectFlatNo.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSelectPeriod.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.calculator.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.postgreText.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogMultiInst.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogPwdChngd.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.dialogSorry.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.otherExpense.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.inMoney2.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.incSumGraph.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.incSummary.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.oldDuesDetails.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.outMoney.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.inMoney.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.cashReceipt.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.setRate.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.setRateAmd.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatHome.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatLogin.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatAboutBox.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatChgPwd.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.Resources.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.flatSplash.resources
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.vbproj.GenerateResource.cache
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.vbproj.CoreCompileInputs.cache
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.exe.manifest
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.application
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.exe
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.xml
+D:\PRACTICE\OurFlatsMaint\OurFlatsMaint\obj\x86\Debug\OurFlatsMaint.pdb

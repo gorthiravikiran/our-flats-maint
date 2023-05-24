@@ -1,0 +1,316 @@
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND: url(http://addaimages.apartmentadda.com/portal/tophead-3.jpg) #fff repeat-x center top; PADDING-TOP: 0px
+}
+A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
+}
+#container {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 1004px; HEIGHT: 100%
+}
+.header {
+	POSITION: absolute; WIDTH: 1004px; HEIGHT: 130px; TOP: 0px; LEFT: 0px
+}
+.logo {
+	MARGIN-TOP: -20px; WIDTH: 104px; FLOAT: left; HEIGHT: 130px; MARGIN-LEFT: 10px
+}
+.logo2 {
+	MARGIN-TOP: 20px; WIDTH: 104px; FLOAT: left; HEIGHT: 130px; MARGIN-LEFT: 17px
+}
+.logo_addaprofile {
+	MARGIN-TOP: 10px; WIDTH: 104px; FLOAT: left; HEIGHT: 130px; MARGIN-LEFT: 20px
+}
+.link_head {
+	TEXT-ALIGN: right; WIDTH: 700px; FLOAT: right; TOP: 0px; RIGHT: 0px
+}
+.login {
+	FLOAT: right
+}
+.apt_adda {
+	POSITION: absolute; WIDTH: 1004px; HEIGHT: 465px; TOP: 130px; LEFT: 0px
+}
+.join_form {
+	POSITION: absolute; TEXT-ALIGN: right; WIDTH: 1004px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 30px; FONT-SIZE: 13px; TOP: 975px; FONT-WEIGHT: normal; MARGIN-RIGHT: 25px; LEFT: 0px
+}
+.join_adda_text {
+	FLOAT: right; MARGIN-RIGHT: 25px
+}
+.join_adda {
+	POSITION: relative; FLOAT: right; MARGIN-RIGHT: 25px
+}
+.join_adda_img {
+	FLOAT: right; MARGIN-RIGHT: 25px
+}
+.create_adda {
+	MARGIN-TOP: 10px; WIDTH: 1004px; FLOAT: right; MARGIN-RIGHT: 25px
+}
+SELECT {
+	BORDER-BOTTOM: #999 1px solid; BORDER-LEFT: #999 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; COLOR: #666; MARGIN-LEFT: 8px; FONT-SIZE: 12px; BORDER-TOP: #999 1px solid; BORDER-RIGHT: #999 1px solid; PADDING-TOP: 2px
+}
+.slogan {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 1004px; HEIGHT: 95px; COLOR: #666; FONT-SIZE: 19px; TOP: 440px; FONT-WEIGHT: normal; PADDING-TOP: 30px; LEFT: 0px
+}
+.tools_head {
+	TEXT-ALIGN: center; MARGIN-TOP: -10px; COLOR: #277088; MARGIN-LEFT: 10px; FONT-SIZE: 16px; FONT-WEIGHT: normal; PADDING-TOP: 10px
+}
+.tools_desc_head {
+	MARGIN-TOP: -8px; MARGIN-BOTTOM: 10px; FLOAT: left; MARGIN-LEFT: -15px; FONT-SIZE: 16px; _margin-left: -5px
+}
+.tools_desc_head_strong {
+	FONT-SIZE: 22px; FONT-WEIGHT: bold
+}
+.tools_ul_style {
+	MARGIN-TOP: -60px; CLEAR: both
+}
+.tools {
+	POSITION: absolute; WIDTH: 1004px; BACKGROUND: url(../images/world/home/toolsbg.jpg) repeat-x 1px top; HEIGHT: 401px; TOP: 540px; LEFT: 0px
+}
+.tools_left {
+	WIDTH: 1004px; BACKGROUND: url(../images/world/home/toolsbg_left.jpg) no-repeat left top; HEIGHT: 401px
+}
+.tools_right {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 25px; WIDTH: 955px; PADDING-RIGHT: 25px; BACKGROUND: url(../images/world/home/toolsbg_right.jpg) no-repeat right top; HEIGHT: 371px; PADDING-TOP: 15px
+}
+.tools_slogan {
+	WIDTH: 1004px; FLOAT: left
+}
+.tool_1 {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: -15px; PADDING-LEFT: 50px; WIDTH: 240px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 152px; PADDING-TOP: 70px
+}
+.tool_1 UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.tool_1 UL LI {
+	LINE-HEIGHT: 20px; PADDING-LEFT: 15px; WIDTH: 165px; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-BOTTOM: 10px; BACKGROUND: url(../images/world/home/bullet.jpg) no-repeat left 7px; COLOR: #333; FONT-SIZE: 12px
+}
+.tool_feature {
+	TEXT-ALIGN: center; LINE-HEIGHT: 50px; TEXT-TRANSFORM: uppercase; WIDTH: 470px; FLOAT: left; HEIGHT: 50px; COLOR: #287189; FONT-SIZE: 15px; FONT-WEIGHT: bold
+}
+.packages {
+	Z-INDEX: 3; POSITION: absolute; WIDTH: 1004px; BACKGROUND: url(http://addaimages.apartmentadda.com/portal/aptadda_head.jpg) no-repeat left top; HEIGHT: 333px; VERTICAL-ALIGN: bottom; TOP: 1400px; LEFT: 0px
+}
+.packages_in {
+	PADDING-BOTTOM: 0px; MARGIN: 46px 0px; PADDING-LEFT: 5px; WIDTH: 991px; PADDING-RIGHT: 5px; BACKGROUND: url(../images/world/home/packages_bg.jpg) repeat-x left top; HEIGHT: 280px; PADDING-TOP: 5px
+}
+.packages_in_left {
+	WIDTH: 991px; BACKGROUND: url(../images/world/home/packages_inner_bg.jpg) repeat-x left top; HEIGHT: 280px
+}
+.packages IMG {
+	MARGIN: 0px 50px
+}
+.adda_slogan {
+	POSITION: relative; TEXT-ALIGN: center; FONT-STYLE: italic; FLOAT: left; COLOR: #006633; MARGIN-LEFT: 20px; FONT-SIZE: 14px
+}
+.testimonial {
+	POSITION: absolute; MARGIN-LEFT: 3px; TOP: 1220px; MARGIN-RIGHT: 25px; LEFT: 0px
+}
+.testimonial_in {
+	HEIGHT: 300px; MARGIN-LEFT: 3px
+}
+.testimonial_in A {
+	COLOR: #07485a; TEXT-DECORATION: none
+}
+.testimonial_details {
+	TEXT-ALIGN: left; LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; FLOAT: left; COLOR: #07485a; MARGIN-LEFT: 3px; FONT-SIZE: 14px
+}
+.testimonial_details_from {
+	FONT-SIZE: 12px
+}
+.mediaBuzz {
+	POSITION: absolute; MARGIN-LEFT: 3px; TOP: 1220px; MARGIN-RIGHT: 25px; LEFT: 500px
+}
+.main_content {
+	POSITION: relative; PADDING-BOTTOM: 3px; PADDING-LEFT: 6px; WIDTH: 80%; PADDING-RIGHT: 6px; TOP: 600px; PADDING-TOP: 6px; LEFT: 10px
+}
+.footer_main {
+	POSITION: absolute; BORDER-TOP-COLOR: #c4cbcb; WIDTH: 1000px; BORDER-TOP-STYLE: solid; HEIGHT: 352px; TOP: 1750px; LEFT: 0px
+}
+.footer_other {
+	BORDER-TOP-COLOR: #c4cbcb; MARGIN: 0px auto -1px; WIDTH: 1000px; BORDER-TOP-STYLE: solid; HEIGHT: 352px
+}
+.home_conclusion {
+	BACKGROUND-COLOR: #fff; MARGIN: 0px 6px; PADDING-LEFT: 40px; WIDTH: 948px; HEIGHT: 310px; _width: 988px; _padding-left: 0px
+}
+.conclude {
+	LINE-HEIGHT: 17px; MARGIN-TOP: 40px; WIDTH: 190px; FONT-FAMILY: Arial, Helvetica, sans-serif; FLOAT: left; HEIGHT: 200px; COLOR: #666; MARGIN-LEFT: 50px; FONT-SIZE: 9px; _margin-left: 40px
+}
+.conclude SPAN {
+	TEXT-TRANSFORM: uppercase; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #666; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.conclude UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.conclude UL LI {
+	MARGIN-TOP: 3px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #cb8069; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.conclude UL LI A {
+	COLOR: #cb8069; TEXT-DECORATION: none
+}
+.addalinks {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #cb8069; FONT-SIZE: 9px; TEXT-DECORATION: none
+}
+.copyright {
+	TEXT-ALIGN: center; LINE-HEIGHT: 40px; MARGIN: 0px 3px; WIDTH: 994px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 40px; COLOR: #5a5a5a; FONT-SIZE: 10px
+}
+.copyright A {
+	COLOR: #5a5a5a; TEXT-DECORATION: none
+}
+* HTML IMG {
+	POSITION: relative
+}
+* HTML .png {
+	POSITION: relative
+}
+.innerheaderimg {
+	WIDTH: 1013px; BACKGROUND: url(../images/world/home/header_inner.jpg) no-repeat right top; HEIGHT: 200px
+}
+.headerMenu P {
+	LINE-HEIGHT: 18px; MARGIN: 0px; COLOR: #333333; VERTICAL-ALIGN: bottom
+}
+.headerMenu_RTL P {
+	LINE-HEIGHT: 18px; MARGIN: 0px; DIRECTION: rtl; COLOR: #333333; VERTICAL-ALIGN: bottom
+}
+.headerMenu P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 0px
+}
+.headerMenu A {
+	COLOR: #333333; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.headerMenu A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+.headerMenu A:hover {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+.public_innerheaderimg {
+	WIDTH: 995px; BACKGROUND: url(../images/world/home/public_header_inner.jpg) no-repeat right top; HEIGHT: 200px
+}
+.public_apartment_name {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff914c; FONT-SIZE: 20px; FONT-WEIGHT: bold
+}
+.bluhead {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #0099cc; FONT-SIZE: 15px; FONT-WEIGHT: bold
+}
+.t {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #242626; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.t A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.t A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.t A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.t A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006600; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+#tabcontainer {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #fff; PADDING-TOP: 10px
+}
+#tabnav {
+	MARGIN: 0px; PADDING-LEFT: 10px; BACKGROUND: url(../images/tab_bottom.gif) repeat-x 50% bottom; HEIGHT: 20px
+}
+#tabnav UL {
+	PADDING-LEFT: 20px
+}
+#tabnav LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+#tabnav A:link {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 10px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 10px; BACKGROUND: #ffffcc; FLOAT: left; COLOR: #666; FONT-SIZE: 12px; BORDER-TOP: #ccc 1px solid; FONT-WEIGHT: normal; MARGIN-RIGHT: 4px; BORDER-RIGHT: #ccc 1px solid; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+#tabnav A:visited {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 10px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 10px; BACKGROUND: #ffffcc; FLOAT: left; COLOR: #666; FONT-SIZE: 12px; BORDER-TOP: #ccc 1px solid; FONT-WEIGHT: normal; MARGIN-RIGHT: 4px; BORDER-RIGHT: #ccc 1px solid; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+#tabnav A.active:link {
+	BORDER-BOTTOM: #fff 1px solid; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND: #fff; COLOR: #000
+}
+#tabnav A.active:visited {
+	BORDER-BOTTOM: #fff 1px solid; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND: #fff; COLOR: #000
+}
+#tabnav A:hover {
+	BACKGROUND: #fff
+}
+.headerimg {
+	WIDTH: 500px; BACKGROUND: url(../images/internal/admin_addahead.jpg) #e5e4e4 no-repeat center top; HEIGHT: 85px
+}
+.apartment_name {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff914c; FONT-SIZE: 26px; FONT-WEIGHT: bold
+}
+.bluhead2 {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #0099cc; FONT-SIZE: 20px; FONT-WEIGHT: bold
+}
+.littlelarger {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 14px; FONT-WEIGHT: normal
+}
+.apt_image_highlight {
+	BORDER-BOTTOM: #aaaaaa 2px solid; BORDER-LEFT: #dddddd 1px solid; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: white; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; MARGIN-LEFT: auto; BORDER-TOP: #dddddd 1px solid; MARGIN-RIGHT: auto; BORDER-RIGHT: #aaaaaa 2px solid; PADDING-TOP: 2px
+}
+.access_style {
+	COLOR: #ff914c
+}
+.features_list LI {
+	MARGIN-TOP: 10px
+}
+.features_heading {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.features_module_text {
+	COLOR: #666
+}
+#special {
+	DISPLAY: none
+}
+#showcase_heading {
+	POSITION: absolute; WIDTH: 250px; HEIGHT: 150px; MARGIN-LEFT: 10px; TOP: 975px; MARGIN-RIGHT: auto; LEFT: 0px
+}
+#showcase {
+	Z-INDEX: 5; BORDER-BOTTOM: #000 1px solid; POSITION: absolute; BORDER-LEFT: #000 1px solid; WIDTH: 280px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 150px; COLOR: #ffffff; MARGIN-LEFT: 10px; FONT-SIZE: 16px; BORDER-TOP: #000 1px solid; TOP: 1000px; MARGIN-RIGHT: auto; BORDER-RIGHT: #000 1px solid; LEFT: 0px
+}
+#showcase IMG.thumbnail {
+	DISPLAY: none
+}
+#myGallerySet IMG.thumbnail {
+	DISPLAY: none
+}
+#showcase A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.button {
+	PADDING-RIGHT: 18px; DISPLAY: block; FONT: 12px arial, sans-serif; BACKGROUND: url(../images/buttons/bg_button_a.gif) no-repeat right top; FLOAT: right; HEIGHT: 19px; COLOR: #444; MARGIN-RIGHT: 6px; TEXT-DECORATION: none
+}
+A.button SPAN {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 9px; PADDING-LEFT: 18px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(../images/buttons/bg_button_span.gif) no-repeat; PADDING-TOP: 5px
+}
+A.button:active {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND-POSITION: right bottom; COLOR: #000
+}
+A.button:active SPAN {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 18px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: left bottom; PADDING-TOP: 6px
+}
+.finePrint {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 8px; FONT-WEIGHT: normal
+}
+.button_style {
+	TEXT-ALIGN: center; BORDER-LEFT: transparent 1px solid; LINE-HEIGHT: 1em; MARGIN: 3px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; DISPLAY: inline-block; CURSOR: pointer; BORDER-RIGHT: transparent 1px solid; TEXT-DECORATION: none; -moz-border-radius: 1.5em; -webkit-border-radius: 1.5em; border-radius: 1.5em; -moz-box-shadow: 0 1px 2px rgba(10, 10, 10, .2); -webkit-box-shadow: 0 1px 2px rgba(10, 10, 10, .2); box-shadow: 0 1px 2px rgba(10, 10, 10, .2)
+}
+.white {
+	BORDER-BOTTOM: #bbb 1px solid; FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#cccccc'); BACKGROUND: #fff; COLOR: #444; FONT-SIZE: 12px; BORDER-TOP: #fff 1px solid
+}
+.white:hover {
+	FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dddddd', endColorstr='#bbbbbb'); BACKGROUND: #ccc
+}
+.white:active {
+	BORDER-BOTTOM: #eeeeee 1px solid; FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cccccc', endColorstr='#eeeeee'); BACKGROUND: #aaa; COLOR: #fcfcfc; BORDER-TOP: #bbbbbb 1px solid
+}
+.blue {
+	BORDER-BOTTOM: #abdaec 1px solid; FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr='#DEF0F0', endColorstr='#B5E1EC'); BACKGROUND: #def0f0; COLOR: #000000; FONT-SIZE: 12px; BORDER-TOP: #fff 1px solid
+}
+.blue:hover {
+	FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ABDAEC', endColorstr='#ABDAEC'); BACKGROUND: #abdaec; COLOR: #000000
+}
+.blue:active {
+	FILTER: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ABDAEC', endColorstr='#ABDAEC')
+  border-bottom: solid 1px #ABDAEC; BACKGROUND: #abdaec; COLOR: #fcfcfc; BORDER-TOP: #abdaec 1px solid
+}

@@ -1,0 +1,468 @@
+BODY {
+	FONT-FAMILY: verdana, sans-serif; COLOR: #333333; FONT-SIZE: 11px
+}
+A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #666666; FONT-SIZE: 80%; FONT-WEIGHT: normal
+}
+A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #666666; FONT-SIZE: 80%; FONT-WEIGHT: normal
+}
+A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #666666; FONT-SIZE: 80%; FONT-WEIGHT: normal
+}
+A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #666666; FONT-SIZE: 80%; FONT-WEIGHT: normal
+}
+.t {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #242626; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.t A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.t A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.t A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.t A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006600; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.s {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #242626; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.s A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.s A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.s A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.s A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006600; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.homepage {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.homepage A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.homepage A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.homepage A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.homepage A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006600; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.welcome {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #242626; FONT-SIZE: 12px; FONT-WEIGHT: normal; PADDING-TOP: 4px
+}
+.homepage1 {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.homepage1 A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.homepage1 A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.homepage1 A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.homepage1 A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.sg {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #339900; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.sg A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #339900; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.sg A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #339900; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.sg A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #339900; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.sg A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #242626; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.s1 {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.bluhead {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #0099cc; FONT-SIZE: 15px; FONT-WEIGHT: bold
+}
+.bluhead2 {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #0099cc; FONT-SIZE: 20px; FONT-WEIGHT: bold
+}
+.s_bluhead {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #0099cc; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.s_bluhead2 {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #0099cc; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.s_grnhead {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #339933; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.s_yelhead {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #cc9933; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.greyhead {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #555a5a; FONT-SIZE: 15px; FONT-WEIGHT: bold
+}
+.copy {
+	FONT-FAMILY: Verdana, Arial; COLOR: #ffffff; FONT-SIZE: 9px
+}
+.copy A:link {
+	FONT-FAMILY: Verdana, Arial; COLOR: #ffffff; FONT-SIZE: 9px; TEXT-DECORATION: none
+}
+.copy A:visited {
+	FONT-FAMILY: Verdana, Arial; COLOR: #ffffff; FONT-SIZE: 9px; TEXT-DECORATION: none
+}
+.copy A:active {
+	FONT-FAMILY: Verdana, Arial; COLOR: #ffffff; FONT-SIZE: 9px; TEXT-DECORATION: none
+}
+.copy A:hover {
+	FONT-FAMILY: Verdana, Arial; COLOR: #333333; FONT-SIZE: 9px; TEXT-DECORATION: underline
+}
+.littlelarger {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 14px; FONT-WEIGHT: normal
+}
+.smaller {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+.smallText {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.smallText A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.smallText A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.smallText A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.smallText A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006600; FONT-SIZE: 10px; FONT-WEIGHT: normal
+}
+.finePrint {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 9px; FONT-WEIGHT: normal
+}
+.finePrint A:link {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 9px; FONT-WEIGHT: normal
+}
+.finePrint A:visited {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 9px; FONT-WEIGHT: normal
+}
+.finePrint A:active {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006699; FONT-SIZE: 9px; FONT-WEIGHT: normal
+}
+.finePrint A:hover {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #006600; FONT-SIZE: 9px; FONT-WEIGHT: normal
+}
+.blueq {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #0099cc; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+#mySubmit {
+	BACKGROUND-COLOR: #808000; FONT: 11px arial, sans-serif; COLOR: white; CURSOR: hand
+}
+.clear {
+	WIDTH: 100%; OVERFLOW: hidden
+}
+A.button {
+	PADDING-RIGHT: 18px; DISPLAY: block; FONT: 12px arial, sans-serif; BACKGROUND: url(../images/buttons/bg_button_a.gif) no-repeat right top; FLOAT: right; HEIGHT: 19px; COLOR: #444; MARGIN-RIGHT: 6px; TEXT-DECORATION: none
+}
+A.button SPAN {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 9px; PADDING-LEFT: 18px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(../images/buttons/bg_button_span.gif) no-repeat; PADDING-TOP: 5px
+}
+A.button:active {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND-POSITION: right bottom; COLOR: #000
+}
+A.button:active SPAN {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 18px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: left bottom; PADDING-TOP: 6px
+}
+A.button2 {
+	PADDING-RIGHT: 18px; DISPLAY: block; FONT: 12px arial, sans-serif; BACKGROUND: url(../images/buttons/bg_button_a.gif) no-repeat right top; FLOAT: left; HEIGHT: 19px; COLOR: #444; MARGIN-RIGHT: 6px; TEXT-DECORATION: none
+}
+A.button2 SPAN {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 9px; PADDING-LEFT: 18px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(../images/buttons/bg_button_span.gif) no-repeat; PADDING-TOP: 5px
+}
+A.button2:active {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND-POSITION: right bottom; COLOR: #000
+}
+A.button2:active SPAN {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 18px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: left bottom; PADDING-TOP: 6px
+}
+.dropshadow2 {
+	PADDING-BOTTOM: 0px; MARGIN: 10px 0px 10px 10px; PADDING-LEFT: 0px; WIDTH: 275px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/style/shadowAlpha.png) no-repeat right bottom; FLOAT: left; CLEAR: left; PADDING-TOP: 0px
+}
+.innerbox {
+	BORDER-BOTTOM: #cccccc 1px solid; POSITION: relative; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-LEFT: 4px; BOTTOM: 6px; PADDING-RIGHT: 4px; BORDER-TOP: #cccccc 1px solid; RIGHT: 6px; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 4px
+}
+.shadowboxfloat {
+	PADDING-BOTTOM: 0px; MARGIN: 10px 0px 10px 10px; PADDING-LEFT: 0px; WIDTH: 275px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/style/shadowAlpha.png) no-repeat right bottom; FLOAT: left; CLEAR: left; PADDING-TOP: 0px
+}
+.shadowcontent_admin {
+	BORDER-BOTTOM: #cecece 1px solid; POSITION: relative; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-LEFT: 4px; BOTTOM: 6px; PADDING-RIGHT: 4px; BACKGROUND: url(../images/internal/boxesbg_admin.jpg) no-repeat left top; BORDER-TOP: #cecece 1px solid; RIGHT: 6px; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 4px
+}
+.shadowcontent2_admin {
+	BORDER-BOTTOM: #cecece 1px solid; POSITION: relative; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-LEFT: 4px; BOTTOM: 6px; PADDING-RIGHT: 4px; BACKGROUND: url(../images/internal/boxesbg_admin.jpg) no-repeat left top; BORDER-TOP: #cecece 1px solid; RIGHT: 6px; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 4px
+}
+.shadowcontent_resident {
+	BORDER-BOTTOM: #cecece 1px solid; POSITION: relative; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-LEFT: 4px; BOTTOM: 6px; PADDING-RIGHT: 4px; BACKGROUND: url(../images/internal/boxesbg.jpg) no-repeat left top; BORDER-TOP: #cecece 1px solid; RIGHT: 6px; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 4px
+}
+.shadowcontent2_resident {
+	BORDER-BOTTOM: #cecece 1px solid; POSITION: relative; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-LEFT: 4px; BOTTOM: 6px; PADDING-RIGHT: 4px; BACKGROUND: url(../images/internal/boxesbg.jpg) no-repeat left top; BORDER-TOP: #cecece 1px solid; RIGHT: 6px; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 4px
+}
+#tabcontainer {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #fff; PADDING-TOP: 10px
+}
+#tabnav {
+	MARGIN: 0px; PADDING-LEFT: 10px; BACKGROUND: url(../images/tab_bottom.gif) repeat-x 50% bottom; HEIGHT: 20px
+}
+#tabnav UL {
+	PADDING-LEFT: 20px
+}
+#tabnav LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+#tabnav A:link {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 10px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 10px; BACKGROUND: #ffffcc; FLOAT: left; COLOR: #666; FONT-SIZE: 12px; BORDER-TOP: #ccc 1px solid; FONT-WEIGHT: normal; MARGIN-RIGHT: 4px; BORDER-RIGHT: #ccc 1px solid; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+#tabnav A:visited {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 10px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 10px; BACKGROUND: #ffffcc; FLOAT: left; COLOR: #666; FONT-SIZE: 12px; BORDER-TOP: #ccc 1px solid; FONT-WEIGHT: normal; MARGIN-RIGHT: 4px; BORDER-RIGHT: #ccc 1px solid; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+#tabnav A.active:link {
+	BORDER-BOTTOM: #fff 1px solid; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND: #fff; COLOR: #000
+}
+#tabnav A.active:visited {
+	BORDER-BOTTOM: #fff 1px solid; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND: #fff; COLOR: #000
+}
+#tabnav A:hover {
+	BACKGROUND: #fff
+}
+#smalltabcontainer {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #fff; PADDING-TOP: 10px
+}
+#smalltabnav {
+	MARGIN: 0px; PADDING-LEFT: 10px; BACKGROUND: url(../images/tab_bottom.gif) repeat-x 50% bottom; HEIGHT: 20px
+}
+#smalltabnav UL {
+	PADDING-LEFT: 20px
+}
+#smalltabnav LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+#smalltabnav A:link {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 10px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 10px; BACKGROUND: #f3f3f3; FLOAT: left; COLOR: #666; FONT-SIZE: 9px; BORDER-TOP: #ccc 1px solid; FONT-WEIGHT: bold; MARGIN-RIGHT: 4px; BORDER-RIGHT: #ccc 1px solid; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+#tabnav A:visited {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; PADDING-BOTTOM: 2px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 10px; OUTLINE-WIDTH: medium; PADDING-RIGHT: 10px; BACKGROUND: #f3f3f3; FLOAT: left; COLOR: #666; FONT-SIZE: 9px; BORDER-TOP: #ccc 1px solid; FONT-WEIGHT: bold; MARGIN-RIGHT: 4px; BORDER-RIGHT: #ccc 1px solid; TEXT-DECORATION: none; PADDING-TOP: 2px
+}
+#smalltabnav A.active:link {
+	BORDER-BOTTOM: #fff 1px solid; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND: #fff; COLOR: #000
+}
+#tabnav A.active:visited {
+	BORDER-BOTTOM: #fff 1px solid; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; BACKGROUND: #fff; COLOR: #000
+}
+#smalltabnav A:hover {
+	BACKGROUND: #fff
+}
+#special {
+	DISPLAY: none
+}
+#widget {
+	HEIGHT: 110px
+}
+.dashboardtable {
+	BORDER-BOTTOM: gray 1px outset; BORDER-LEFT: gray 1px outset; BACKGROUND-COLOR: #e8f2ff; BORDER-SPACING: 0; BORDER-COLLAPSE: separate; BORDER-TOP: gray 1px outset; BORDER-RIGHT: gray 1px outset
+}
+.dashboard TH {
+	BORDER-BOTTOM: gray 1px; BORDER-LEFT: gray 1px; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: white; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; BORDER-TOP: gray 1px; BORDER-RIGHT: gray 1px; PADDING-TOP: 1px; -moz-border-radius: 0
+}
+.dashboardtd {
+	BORDER-BOTTOM: gray 1px; BORDER-LEFT: gray 1px; PADDING-BOTTOM: 1px; BACKGROUND-COLOR: white; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; BORDER-TOP: gray 1px; BORDER-RIGHT: gray 1px; PADDING-TOP: 1px; -moz-border-radius: 0
+}
+.whead {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: trebuchet ms, tahoma, verdana, arial, helvetica; COLOR: #ffffff; FONT-SIZE: 22px; FONT-WEIGHT: bold
+}
+UL {
+	LIST-STYLE-TYPE: circle; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: url(../images/li.gif)
+}
+LI {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.lefttable TD {
+	TEXT-ALIGN: left; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: verdana, sans-serif; COLOR: #787e7f; FONT-SIZE: 11px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+TABLE.sortable THEAD {
+	BACKGROUND-COLOR: #eee; COLOR: #787e7f; CURSOR: pointer; FONT-WEIGHT: bold
+}
+SPAN.left {
+	POSITION: absolute; LEFT: 5px
+}
+SPAN.right {
+	POSITION: absolute; RIGHT: 0px
+}
+DIV.line {
+	POSITION: relative; TEXT-ALIGN: center; WIDTH: 95%
+}
+.tool-tip {
+	Z-INDEX: 13000; WIDTH: 139px; COLOR: #fff
+}
+.tip-top {
+	Z-INDEX: 13000; WIDTH: 139px; COLOR: #fff
+}
+.tip-title {
+	PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: url(../images/style/bubble.png) left top; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold; PADDING-TOP: 8px
+}
+.tip-text {
+	Z-INDEX: 13000; PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: url(../images/style/bubble.png) right bottom; COLOR: #fff; FONT-SIZE: 11px; PADDING-TOP: 4px
+}
+.tip-text A {
+	COLOR: #069
+}
+.tip-loading {
+	MARGIN: 0px auto; WIDTH: 30px; BACKGROUND: url(../images/style/ajax_load.gif) no-repeat center center; HEIGHT: 30px
+}
+.headerimg {
+	WIDTH: 600px; BACKGROUND: url(../images/internal/admin_addahead.jpg) #e5e4e4 no-repeat center top; HEIGHT: 85px
+}
+.apartment_name {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff914c; FONT-SIZE: 26px; FONT-WEIGHT: bold
+}
+.logo_in {
+	WIDTH: 135px; FLOAT: left; HEIGHT: 136px
+}
+.logo2 {
+	POSITION: absolute; WIDTH: 104px; HEIGHT: 130px; TOP: 15px; LEFT: 10px
+}
+.tab_selection {
+	WIDTH: 790px; HEIGHT: 60px
+}
+.tab_selection UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.tab_selection UL LI {
+	TEXT-ALIGN: center
+}
+.tab_selection_a {
+	WIDTH: 870px; HEIGHT: 60px
+}
+.tab_selection_a UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.tab_selection_a UL LI {
+	TEXT-ALIGN: center
+}
+.tab_inactive {
+	TEXT-ALIGN: center; LINE-HEIGHT: 20px; LIST-STYLE-TYPE: none; BACKGROUND: url(../images/internal/inactive_tableft.jpg) no-repeat left top; FLOAT: left; COLOR: #8b8a8a; FONT-WEIGHT: bold; LIST-STYLE-IMAGE: none; TEXT-DECORATION: none
+}
+.tab_inactive_right {
+	LINE-HEIGHT: 27px; LIST-STYLE-TYPE: none; BACKGROUND: url(../images/internal/inactive_tableft.jpg) no-repeat right top; FLOAT: left; LIST-STYLE-IMAGE: none
+}
+.tab_inactive A {
+	COLOR: #8b8a8a; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.tab_active A {
+	COLOR: #13378e; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.tab_active {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 27px; LIST-STYLE-TYPE: none; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/internal/active_tableft.jpg) no-repeat left top; FLOAT: left; COLOR: #333; FONT-WEIGHT: bold; LIST-STYLE-IMAGE: none; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.tab_active A {
+	FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.tab_active_right {
+	LINE-HEIGHT: 27px; LIST-STYLE-TYPE: none; BACKGROUND: url(../images/internal/active_tableft.jpg) no-repeat right top; FLOAT: left; LIST-STYLE-IMAGE: none
+}
+.tab_content_left {
+	WIDTH: 10px; BACKGROUND: url(../images/internal/tabbox_left.jpg) no-repeat left top; FLOAT: left; HEIGHT: 60px; CLEAR: left
+}
+.tab_content {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 760px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/internal/tabbox_bg.jpg) repeat-x left top; FLOAT: left; HEIGHT: 40px; VERTICAL-ALIGN: middle; PADDING-TOP: 10px
+}
+.tab_content1 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 760px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/internal/tabbox_bg.jpg) repeat-x left top; FLOAT: left; HEIGHT: 40px; VERTICAL-ALIGN: middle; PADDING-TOP: 10px
+}
+.tab_content IMG {
+	PADDING-LEFT: 5px
+}
+.tab_content1 IMG {
+	PADDING-LEFT: 7px
+}
+.tab_content_right {
+	WIDTH: 12px; BACKGROUND: url(../images/internal/tabbox_right.jpg) no-repeat left top; FLOAT: left; HEIGHT: 60px
+}
+.tab_content_left_a {
+	WIDTH: 10px; BACKGROUND: url(../images/internal/tabbox_left.jpg) no-repeat left top; FLOAT: left; HEIGHT: 60px; CLEAR: left
+}
+.tab_content_a {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 800px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/internal/tabbox_bg.jpg) repeat-x left top; FLOAT: left; HEIGHT: 40px; VERTICAL-ALIGN: middle; PADDING-TOP: 10px
+}
+.tab_content1_a {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 800px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/internal/tabbox_bg.jpg) repeat-x left top; FLOAT: left; HEIGHT: 40px; VERTICAL-ALIGN: middle; PADDING-TOP: 10px
+}
+.tab_content_a IMG {
+	PADDING-LEFT: 5px
+}
+.tab_content1_a IMG {
+	PADDING-LEFT: 7px
+}
+.tab_content_right_a {
+	WIDTH: 12px; BACKGROUND: url(../images/internal/tabbox_right.jpg) no-repeat left top; FLOAT: left; HEIGHT: 60px
+}
+.admin_data {
+	POSITION: absolute; WIDTH: 800px; FLOAT: left; HEIGHT: 90px; TOP: 150px
+}
+.admin_data_in {
+	POSITION: absolute; WIDTH: 800px; FLOAT: left; OVERFLOW: visible; TOP: 150px
+}
+.data_holder {
+	WIDTH: 265px; BACKGROUND: url(../images/internal/admin-detailsbg.jpg) no-repeat left top; FLOAT: left; HEIGHT: 198px; OVERFLOW: hidden
+}
+.data_holder_resident {
+	WIDTH: 265px; BACKGROUND: url(../images/internal/boxesbg.jpg) no-repeat left top; FLOAT: left; HEIGHT: 198px; OVERFLOW: hidden
+}
+.data_holder A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.data_holder_resident A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.image_highlight {
+	BORDER-BOTTOM: #aaaaaa 2px solid; BORDER-LEFT: #dddddd 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: white; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; MARGIN-LEFT: auto; BORDER-TOP: #dddddd 1px solid; MARGIN-RIGHT: auto; BORDER-RIGHT: #aaaaaa 2px solid; PADDING-TOP: 0px
+}
+.apt_image_highlight {
+	BORDER-BOTTOM: #aaaaaa 2px solid; BORDER-LEFT: #dddddd 1px solid; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: white; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; MARGIN-LEFT: auto; BORDER-TOP: #dddddd 1px solid; MARGIN-RIGHT: auto; BORDER-RIGHT: #aaaaaa 2px solid; PADDING-TOP: 2px
+}
+.header {
+	POSITION: relative; WIDTH: 980px; HEIGHT: 10px; TOP: 0px; LEFT: 0px
+}
+.link_head {
+	TEXT-ALIGN: right; MARGIN-TOP: -2px; WIDTH: 700px; MARGIN-BOTTOM: -10px; FLOAT: right; TOP: 0px; RIGHT: 0px
+}
+.headerMenu P {
+	LINE-HEIGHT: 18px; COLOR: #333333; VERTICAL-ALIGN: bottom
+}
+.headerMenu P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 0px
+}
+.headerMenu A {
+	COLOR: #333333; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.headerMenu A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+.headerMenu A:hover {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+#special {
+	DISPLAY: none
+}

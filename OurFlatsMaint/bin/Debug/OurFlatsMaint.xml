@@ -1,0 +1,976 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OurFlatsMaint
+</name>
+</assembly>
+<members>
+<member name="T:OurFlatsMaint.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._3d_city">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._3d_city_model">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.ad_manager">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.admin_forum">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.admin_reports">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.admin_residents">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.air">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.annual">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.apartment_landing">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.assets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.backup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.bookmarks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.broadcast">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.btn1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.btn2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.btn3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.btnB1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.btnB2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.calendar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.complaints">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.construct">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.curlybClose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.curlybOpen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.dialer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.donation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.done">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.electricity1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.electricity11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.empty">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.events">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.expense">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.find">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.flats">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.ganesh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.ganesh_pooja">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.garbage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.general_ledger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.goldstar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.income">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.income2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.issue_tracker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.law">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.liftmaint1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.liftmaint2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.loans">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.monthly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.no">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.Notepad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.notice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.oldDues">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.PH02736U">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.PH02743G">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.plusMinus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.print2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.public_adda">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.purple_bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.quarterly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.repair">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.Repairs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.residents_list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.rupee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.secret_ballot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.shredder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.smiley">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.sorry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.special">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.staff_manager">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.thumbs_down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.thumbs_up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.tick">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.Timelines">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.timer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.update">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.updates">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.upload">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.user_forum">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.user_widget">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.vendor_admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.vendor_list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.wait">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.watchman">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.water_blue_wave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.water_drop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.wave_bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.What">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.What1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.yesno">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OurFlatsMaint.My.Resources.Resources.yesno1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.ASSETSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.CONTACTSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_BASICDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_EXPENSEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_INCOMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.GARBAGEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.LIFT_MAINTENANCEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.MAINT_CHARGESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.OLD_DUESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.SPECIAL_FUNDSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.USERSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATCHMAN_SALARYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATER_BILLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATER_BILL_PAYDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.Assets_ExtendedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_BASIC_Without_Matching_FLATS_INCOMEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.Monthly_Income_SumDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.My_Custum_QueryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.OLD_DUES_QueryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.ASSETSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.CONTACTSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_BASICRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_EXPENSERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_INCOMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.GARBAGERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.LIFT_MAINTENANCERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.MAINT_CHARGESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.OLD_DUESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.SPECIAL_FUNDSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.USERSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATCHMAN_SALARYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATER_BILLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATER_BILL_PAYRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.Assets_ExtendedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_BASIC_Without_Matching_FLATS_INCOMERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.Monthly_Income_SumRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.My_Custum_QueryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.OLD_DUES_QueryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.ASSETSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.CONTACTSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_BASICRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_EXPENSERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_INCOMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.GARBAGERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.LIFT_MAINTENANCERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.MAINT_CHARGESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.OLD_DUESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.SPECIAL_FUNDSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.USERSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATCHMAN_SALARYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATER_BILLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.WATER_BILL_PAYRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.Assets_ExtendedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.FLATS_BASIC_Without_Matching_FLATS_INCOMERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.Monthly_Income_SumRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.My_Custum_QueryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSet.OLD_DUES_QueryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.ASSETSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.CONTACTSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.FLATS_BASICTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.FLATS_EXPENSETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.FLATS_INCOMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.GARBAGETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.LIFT_MAINTENANCETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.MAINT_CHARGESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.OLD_DUESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.SPECIAL_FUNDSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.USERSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.WATCHMAN_SALARYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.WATER_BILLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.WATER_BILL_PAYTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.Assets_ExtendedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.FLATS_BASIC_Without_Matching_FLATS_INCOMETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.Monthly_Income_SumTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.My_Custum_QueryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.OLD_DUES_QueryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OurFlatsMaint.FlatsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OurFlatsMaint.FlatsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OurFlatsMaint.FlatsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(OurFlatsMaint.FlatsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OurFlatsMaint.FlatsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(OurFlatsMaint.FlatsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OurFlatsMaint.FlatsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OurFlatsMaint.FlatsDataSetTableAdapters.TableAdapterManager.UpdateAll(OurFlatsMaint.FlatsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OurFlatsMaint.FlatsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
